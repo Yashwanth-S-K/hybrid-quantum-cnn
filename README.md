@@ -20,7 +20,7 @@ This project implements a hybrid quantum-classical convolutional neural network 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/hybrid-quantum-cnn.git
+git clone https://github.com/Yashwanth-S-K/hybrid-quantum-cnn.git
 cd hybrid-quantum-cnn
 ```
 
